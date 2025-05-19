@@ -38,6 +38,5 @@ The dataset represents **retail transaction data**, including:
 
 ## 📎 View the Dashboard
 
-🔗 [View Project Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-profile-name)
-
+🔗 https://public.tableau.com/views/Finalproject_17464786574770/FinalDashboard?:language=en-US&:sid=1CC114D434E843119BD3786DFE9C62A6-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
